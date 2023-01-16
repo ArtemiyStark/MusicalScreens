@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="182.016dp"
+    android:height="323.35dp"
+    android:viewportWidth="182.016"
+    android:viewportHeight="323.35">
+  <path
+      android:pathData="M0.016,0.35h182v323h-182z"
+      android:fillColor="@color/emperors_children"/>
+</vector>
