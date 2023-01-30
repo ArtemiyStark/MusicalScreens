@@ -6,6 +6,10 @@
 
     <color name="blue">#7BCEFF</color>
 
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="underline">#D8D6D6</color>
+
     <color name="abbadon_black">#000000</color>
     <color name="white_scars">#ffffff</color>
     <color name="corvus_black">#171314</color>
