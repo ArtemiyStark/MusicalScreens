@@ -9,15 +9,15 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        replaceFragment(HomeFragment())
+        //replaceFragment(SplashFragment())
         supportActionBar?.hide()
     }
-    private fun replaceFragment(homeFragment: Fragment) {
+   /*private fun replaceFragment(splashFragment: Fragment) {
 
         val fragmentManager = supportFragmentManager
         val fragmentTransaction = fragmentManager.beginTransaction()
-        fragmentTransaction.replace(R.id.frame_layout,homeFragment)
+        fragmentTransaction.replace(R.id.frame_layout,splashFragment)
         fragmentTransaction.commit()
 
-    }
+    }*/
 }
